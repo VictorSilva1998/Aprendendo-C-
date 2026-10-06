@@ -1,0 +1,16 @@
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\bin\Debug\net10.0\Exercício 6 - Condicional.exe
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\bin\Debug\net10.0\Exercício 6 - Condicional.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\bin\Debug\net10.0\Exercício 6 - Condicional.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\bin\Debug\net10.0\Exercício 6 - Condicional.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\bin\Debug\net10.0\Exercício 6 - Condicional.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\obj\Debug\net10.0\Exercício 6 - Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\obj\Debug\net10.0\Exercício 6 - Condicional.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\obj\Debug\net10.0\Exercício 6 - Condicional.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\obj\Debug\net10.0\Exercício 6 - Condicional.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\obj\Debug\net10.0\Exercício 6 - Condicional.sourcelink.json
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\obj\Debug\net10.0\Exercício 6 - Condicional.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\obj\Debug\net10.0\refint\Exercício 6 - Condicional.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\obj\Debug\net10.0\Exercício 6 - Condicional.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\obj\Debug\net10.0\Exercício 6 - Condicional.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\obj\Debug\net10.0\ref\Exercício 6 - Condicional.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 6 - Condicional\obj\Debug\net10.0\Exerc_ci.3342BC7C.Up2Date

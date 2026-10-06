@@ -1,12 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "LDejAnnrw8s=",
+  "dgSpecHash": "SN3krnij+ds=",
   "success": true,
-  "projectFilePath": "C:\\Users\\VictorSilva\\Desktop\\Visual Code\\Aprendendo Visual Studio\\Aprendendo Visual Studio.csproj",
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\Visual Studio\\Aprendendo-C-\\Aprendendo Visual Studio\\Aprendendo Visual Studio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\VictorSilva\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.31\\microsoft.dotnet.ilcompiler.8.0.31.nupkg.sha512",
-    "C:\\Users\\VictorSilva\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.31\\microsoft.net.illink.tasks.8.0.31.nupkg.sha512",
-    "C:\\Users\\VictorSilva\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.31\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.31.nupkg.sha512"
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.31\\microsoft.dotnet.ilcompiler.8.0.31.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.31\\microsoft.net.illink.tasks.8.0.31.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.31\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.31.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.31\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.31.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.31\\microsoft.aspnetcore.app.runtime.win-x64.8.0.31.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.31\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.31.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.31\\microsoft.netcore.app.runtime.win-x64.8.0.31.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,16 @@
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\bin\Debug\net10.0\Exercício 3 - Sequencial.exe
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\bin\Debug\net10.0\Exercício 3 - Sequencial.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\bin\Debug\net10.0\Exercício 3 - Sequencial.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\bin\Debug\net10.0\Exercício 3 - Sequencial.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\bin\Debug\net10.0\Exercício 3 - Sequencial.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\obj\Debug\net10.0\Exercício 3 - Sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\obj\Debug\net10.0\Exercício 3 - Sequencial.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\obj\Debug\net10.0\Exercício 3 - Sequencial.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\obj\Debug\net10.0\Exercício 3 - Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\obj\Debug\net10.0\Exercício 3 - Sequencial.sourcelink.json
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\obj\Debug\net10.0\Exercício 3 - Sequencial.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\obj\Debug\net10.0\refint\Exercício 3 - Sequencial.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\obj\Debug\net10.0\Exercício 3 - Sequencial.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\obj\Debug\net10.0\Exercício 3 - Sequencial.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\obj\Debug\net10.0\ref\Exercício 3 - Sequencial.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Exercícios\Exercício 3 - Sequencial\obj\Debug\net10.0\Exerc_ci.B5797D38.Up2Date

@@ -12,3 +12,19 @@ C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio\obj\Debug\net8
 C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.pdb
 C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.genruntimeconfig.cache
 C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio\obj\Debug\net8.0\ref\Aprendendo Visual Studio.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\bin\Debug\net8.0\Aprendendo Visual Studio.exe
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\bin\Debug\net8.0\Aprendendo Visual Studio.deps.json
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\bin\Debug\net8.0\Aprendendo Visual Studio.runtimeconfig.json
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\bin\Debug\net8.0\Aprendendo Visual Studio.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\bin\Debug\net8.0\Aprendendo Visual Studio.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.sourcelink.json
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\obj\Debug\net8.0\refint\Aprendendo Visual Studio.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\obj\Debug\net8.0\ref\Aprendendo Visual Studio.dll
+C:\Users\victo\OneDrive\Área de Trabalho\Visual Studio\Aprendendo-C-\Aprendendo Visual Studio\obj\Debug\net8.0\Aprenden.381012F5.Up2Date
