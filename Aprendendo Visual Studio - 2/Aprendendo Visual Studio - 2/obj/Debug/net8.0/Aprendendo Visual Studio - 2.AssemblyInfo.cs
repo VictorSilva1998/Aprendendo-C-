@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aprendendo Visual Studio - 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc2c0d738fdbdbe672af530b56b114e45ec0084a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e33350cf63a897aa00518366519a8f206a20ae64")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aprendendo Visual Studio - 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aprendendo Visual Studio - 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
