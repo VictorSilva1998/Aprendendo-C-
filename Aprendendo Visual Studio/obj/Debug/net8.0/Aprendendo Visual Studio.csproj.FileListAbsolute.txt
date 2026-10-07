@@ -12,3 +12,4 @@ C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio\obj\Debug\net8
 C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.pdb
 C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.genruntimeconfig.cache
 C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio\obj\Debug\net8.0\ref\Aprendendo Visual Studio.dll
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio\obj\Debug\net8.0\Aprendendo Visual Studio.sourcelink.json

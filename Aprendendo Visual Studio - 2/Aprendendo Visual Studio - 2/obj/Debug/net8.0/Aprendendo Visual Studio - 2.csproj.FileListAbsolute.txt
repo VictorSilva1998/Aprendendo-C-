@@ -1,0 +1,15 @@
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\obj\Debug\net8.0\Aprendendo Visual Studio - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\obj\Debug\net8.0\Aprendendo Visual Studio - 2.AssemblyInfoInputs.cache
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\obj\Debug\net8.0\Aprendendo Visual Studio - 2.AssemblyInfo.cs
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\obj\Debug\net8.0\Aprendendo Visual Studio - 2.csproj.CoreCompileInputs.cache
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\obj\Debug\net8.0\Aprendendo Visual Studio - 2.sourcelink.json
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\bin\Debug\net8.0\Aprendendo Visual Studio - 2.exe
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\bin\Debug\net8.0\Aprendendo Visual Studio - 2.deps.json
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\bin\Debug\net8.0\Aprendendo Visual Studio - 2.runtimeconfig.json
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\bin\Debug\net8.0\Aprendendo Visual Studio - 2.dll
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\bin\Debug\net8.0\Aprendendo Visual Studio - 2.pdb
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\obj\Debug\net8.0\Aprendendo Visual Studio - 2.dll
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\obj\Debug\net8.0\refint\Aprendendo Visual Studio - 2.dll
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\obj\Debug\net8.0\Aprendendo Visual Studio - 2.pdb
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\obj\Debug\net8.0\Aprendendo Visual Studio - 2.genruntimeconfig.cache
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 2\Aprendendo Visual Studio - 2\obj\Debug\net8.0\ref\Aprendendo Visual Studio - 2.dll

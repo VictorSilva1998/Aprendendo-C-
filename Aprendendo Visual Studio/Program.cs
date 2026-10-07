@@ -25,21 +25,35 @@ namespace Aprendendo_Visual_Studio
             //Console.WriteLine($"Arredondado (três casas decimais): {medida:F3}");
             //Console.WriteLine($"Separador decimal invariant culture: {medida.ToString("F3", CultureInfo.InvariantCulture)}");
 
-            Console.WriteLine("Entre com seu nome completo:");
-            string nome = Console.ReadLine();
-            Console.WriteLine("Quantos quartos tem na sua casa?");
-            int quartos = int.Parse(Console.ReadLine());
-            Console.WriteLine("Entre com o preço de um produto:");
-            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.WriteLine("Entre com seu último nome, idade e altura (mesma linha):\n");
-            string[] vetor = Console.ReadLine().Split(' ');
+            //Console.WriteLine("Entre com seu nome completo:");
+            //string nome = Console.ReadLine();
+            //Console.WriteLine("Quantos quartos tem na sua casa?");
+            //int quartos = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Entre com o preço de um produto:");
+            //double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            //Console.WriteLine("Entre com seu último nome, idade e altura (mesma linha):\n");
+            //string[] vetor = Console.ReadLine().Split(' ');
 
-            Console.WriteLine("\nNome completo: " + nome);
-            Console.WriteLine("Quartos: " + quartos);
-            Console.WriteLine("Preço: " + preco.ToString("F2", CultureInfo.InvariantCulture));
-            Console.WriteLine("Último nome: " + vetor[0]);
-            Console.WriteLine("Idade: " + vetor[1]);
-            Console.WriteLine("Altura: " + vetor[2]);
+            //Console.WriteLine("\nNome completo: " + nome);
+            //Console.WriteLine("Quartos: " + quartos);
+            //Console.WriteLine("Preço: " + preco.ToString("F2", CultureInfo.InvariantCulture));
+            //Console.WriteLine("Último nome: " + vetor[0]);
+            //Console.WriteLine("Idade: " + vetor[1]);
+            //Console.WriteLine("Altura: " + vetor[2]);
+
+            Console.Write("Quantos números inteiros você deseja digitar? ");
+            int N = int.Parse(Console.ReadLine());
+
+            int soma = 0;
+
+            for (int I = 0; I < N; I++)
+            {
+                Console.Write("Valor #"+ (I+1) + ": ");
+                int valor = int.Parse(Console.ReadLine());
+                soma += valor;
+            }
+
+            Console.WriteLine("Soma = " + soma);
         }
     }
 }
