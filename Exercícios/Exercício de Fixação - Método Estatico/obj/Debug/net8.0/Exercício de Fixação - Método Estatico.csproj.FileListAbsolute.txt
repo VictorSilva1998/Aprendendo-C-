@@ -1,0 +1,15 @@
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\bin\Debug\net8.0\Exercício de Fixação - Método Estatico.exe
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\bin\Debug\net8.0\Exercício de Fixação - Método Estatico.deps.json
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\bin\Debug\net8.0\Exercício de Fixação - Método Estatico.runtimeconfig.json
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\bin\Debug\net8.0\Exercício de Fixação - Método Estatico.dll
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\bin\Debug\net8.0\Exercício de Fixação - Método Estatico.pdb
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\obj\Debug\net8.0\Exercício de Fixação - Método Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\obj\Debug\net8.0\Exercício de Fixação - Método Estatico.AssemblyInfoInputs.cache
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\obj\Debug\net8.0\Exercício de Fixação - Método Estatico.AssemblyInfo.cs
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\obj\Debug\net8.0\Exercício de Fixação - Método Estatico.csproj.CoreCompileInputs.cache
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\obj\Debug\net8.0\Exercício de Fixação - Método Estatico.sourcelink.json
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\obj\Debug\net8.0\Exercício de Fixação - Método Estatico.dll
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\obj\Debug\net8.0\refint\Exercício de Fixação - Método Estatico.dll
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\obj\Debug\net8.0\Exercício de Fixação - Método Estatico.pdb
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\obj\Debug\net8.0\Exercício de Fixação - Método Estatico.genruntimeconfig.cache
+C:\Users\VictorSilva\Desktop\Visual Code\Exercícios\Exercício de Fixação - Método Estatico\obj\Debug\net8.0\ref\Exercício de Fixação - Método Estatico.dll

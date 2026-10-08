@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Exercício 2 - Classes, Objetos e Atributos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Aprendendo Visual Studio - 3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1839bf34a55d4b9f792a0f988f07ff00704a8aa1")]
-[assembly: System.Reflection.AssemblyProductAttribute("Exercício 2 - Classes, Objetos e Atributos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Exercício 2 - Classes, Objetos e Atributos")]
+[assembly: System.Reflection.AssemblyProductAttribute("Aprendendo Visual Studio - 3")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Aprendendo Visual Studio - 3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
