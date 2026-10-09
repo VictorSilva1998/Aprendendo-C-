@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VictorSilva\\Desktop\\Visual Code\\Aprendendo Visual Studio - 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117585B6-5715-4917-9DD0-14EEA809D8D9}|Aprendendo Visual Studio - 5.csproj|c:\\users\\victorsilva\\desktop\\visual code\\aprendendo visual studio - 5\\exerc\u00EDcio 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117585B6-5715-4917-9DD0-14EEA809D8D9}|Aprendendo Visual Studio - 5.csproj|solutionrelative:exerc\u00EDcio 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117585B6-5715-4917-9DD0-14EEA809D8D9}|Aprendendo Visual Studio - 5.csproj|c:\\users\\victorsilva\\desktop\\visual code\\aprendendo visual studio - 5\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117585B6-5715-4917-9DD0-14EEA809D8D9}|Aprendendo Visual Studio - 5.csproj|solutionrelative:contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\VictorSilva\\Desktop\\Visual Code\\Aprendendo Visual Studio - 5\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\VictorSilva\\Desktop\\Visual Code\\Aprendendo Visual Studio - 5\\ContaBancaria.cs*",
+              "RelativeToolTip": "ContaBancaria.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T19:25:45.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exerc\u00EDcio 1.cs",
+              "DocumentMoniker": "C:\\Users\\VictorSilva\\Desktop\\Visual Code\\Aprendendo Visual Studio - 5\\Exerc\u00EDcio 1.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 1.cs",
+              "ToolTip": "C:\\Users\\VictorSilva\\Desktop\\Visual Code\\Aprendendo Visual Studio - 5\\Exerc\u00EDcio 1.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T18:42:03.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

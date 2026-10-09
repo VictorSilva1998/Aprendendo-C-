@@ -14,17 +14,18 @@ namespace Aprendendo_Visual_Studio___4
 
         public Produto()
         {
+            Quantidade = 10;
         }
-        public Produto(string nome, double preco, int quantidade)
+        public Produto(string nome, double preco, int quantidade) : this(nome, preco)
         {
             Nome = nome;
             Preco = preco;
             Quantidade = quantidade;
         }
-        public Produto(string nome, double preco)
+        public Produto(string Nome, double Preco) : this()
         {
-            Nome = nome;
-            Preco = preco;
+            this.Nome = Nome;
+            this.Preco = Preco;
         }
 
         public double ValorTotalEmEstoque()
