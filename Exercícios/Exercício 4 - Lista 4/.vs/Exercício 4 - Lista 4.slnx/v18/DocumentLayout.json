@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\Visual Studio\\Aprendendo-C-\\Exerc\u00EDcios\\Exerc\u00EDcio 4 - Lista 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D815D5-4ED1-4F3E-ADD0-CB3C34DC2A58}|Exerc\u00EDcio 4 - Lista 4.csproj|c:\\users\\victo\\onedrive\\\u00E1rea de trabalho\\visual studio\\aprendendo-c-\\exerc\u00EDcios\\exerc\u00EDcio 4 - lista 4\\exerc\u00EDcio 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D815D5-4ED1-4F3E-ADD0-CB3C34DC2A58}|Exerc\u00EDcio 4 - Lista 4.csproj|solutionrelative:exerc\u00EDcio 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D815D5-4ED1-4F3E-ADD0-CB3C34DC2A58}|Exerc\u00EDcio 4 - Lista 4.csproj|c:\\users\\victo\\onedrive\\\u00E1rea de trabalho\\visual studio\\aprendendo-c-\\exerc\u00EDcios\\exerc\u00EDcio 4 - lista 4\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D815D5-4ED1-4F3E-ADD0-CB3C34DC2A58}|Exerc\u00EDcio 4 - Lista 4.csproj|solutionrelative:estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\Visual Studio\\Aprendendo-C-\\Exerc\u00EDcios\\Exerc\u00EDcio 4 - Lista 4\\Estoque.cs",
+              "RelativeDocumentMoniker": "Estoque.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\Visual Studio\\Aprendendo-C-\\Exerc\u00EDcios\\Exerc\u00EDcio 4 - Lista 4\\Estoque.cs",
+              "RelativeToolTip": "Estoque.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T00:42:14.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exerc\u00EDcio 4.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\Visual Studio\\Aprendendo-C-\\Exerc\u00EDcios\\Exerc\u00EDcio 4 - Lista 4\\Exerc\u00EDcio 4.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 4.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\Visual Studio\\Aprendendo-C-\\Exerc\u00EDcios\\Exerc\u00EDcio 4 - Lista 4\\Exerc\u00EDcio 4.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T00:36:49.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
