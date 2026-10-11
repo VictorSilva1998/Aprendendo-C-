@@ -23,10 +23,17 @@ namespace Exercício_10___Lista_4
 
         public void Recargas(double valor)
         {
-            Credito += valor;
+            if (valor > 100)
+            {
+                Credito += (valor * 1.1);
+            }
+            else
+            {
+                Credito += valor;
+            }
         }
 
-        public void Ligacoes (double valor, int minutos)
+        public void Ligacoes(int minutos)
         {
             if (minutos * 0.5 + 0.2 > Credito)
             {
