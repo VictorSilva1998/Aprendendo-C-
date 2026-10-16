@@ -1,0 +1,15 @@
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\bin\Debug\net8.0\Aprendendo Visual Studio - 8.exe
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\bin\Debug\net8.0\Aprendendo Visual Studio - 8.deps.json
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\bin\Debug\net8.0\Aprendendo Visual Studio - 8.runtimeconfig.json
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\bin\Debug\net8.0\Aprendendo Visual Studio - 8.dll
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\bin\Debug\net8.0\Aprendendo Visual Studio - 8.pdb
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\obj\Debug\net8.0\Aprendendo Visual Studio - 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\obj\Debug\net8.0\Aprendendo Visual Studio - 8.AssemblyInfoInputs.cache
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\obj\Debug\net8.0\Aprendendo Visual Studio - 8.AssemblyInfo.cs
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\obj\Debug\net8.0\Aprendendo Visual Studio - 8.csproj.CoreCompileInputs.cache
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\obj\Debug\net8.0\Aprendendo Visual Studio - 8.sourcelink.json
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\obj\Debug\net8.0\Aprendendo Visual Studio - 8.dll
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\obj\Debug\net8.0\refint\Aprendendo Visual Studio - 8.dll
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\obj\Debug\net8.0\Aprendendo Visual Studio - 8.pdb
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\obj\Debug\net8.0\Aprendendo Visual Studio - 8.genruntimeconfig.cache
+C:\Users\VictorSilva\Desktop\Visual Code\Aprendendo Visual Studio - 8\obj\Debug\net8.0\ref\Aprendendo Visual Studio - 8.dll
