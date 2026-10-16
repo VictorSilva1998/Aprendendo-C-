@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\Visual Studio\\Aprendendo-C-\\Exerc\u00EDcios\\Exerc\u00EDcio de Vetores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A6ABEE-6AFE-43F4-ADE1-80A89DD486D0}|Exerc\u00EDcio de Vetores.csproj|c:\\users\\victo\\onedrive\\\u00E1rea de trabalho\\visual studio\\aprendendo-c-\\exerc\u00EDcios\\exerc\u00EDcio de vetores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A6ABEE-6AFE-43F4-ADE1-80A89DD486D0}|Exerc\u00EDcio de Vetores.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A6ABEE-6AFE-43F4-ADE1-80A89DD486D0}|Exerc\u00EDcio de Vetores.csproj|c:\\users\\victo\\onedrive\\\u00E1rea de trabalho\\visual studio\\aprendendo-c-\\exerc\u00EDcios\\exerc\u00EDcio de vetores\\vetores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A6ABEE-6AFE-43F4-ADE1-80A89DD486D0}|Exerc\u00EDcio de Vetores.csproj|solutionrelative:vetores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\Visual Studio\\Aprendendo-C-\\Exerc\u00EDcios\\Exerc\u00EDcio de Vetores\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\Visual Studio\\Aprendendo-C-\\Exerc\u00EDcios\\Exerc\u00EDcio de Vetores\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T14:41:58.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vetores.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\Visual Studio\\Aprendendo-C-\\Exerc\u00EDcios\\Exerc\u00EDcio de Vetores\\Vetores.cs",
+              "RelativeDocumentMoniker": "Vetores.cs",
+              "ToolTip": "C:\\Users\\victo\\OneDrive\\\u00C1rea de Trabalho\\Visual Studio\\Aprendendo-C-\\Exerc\u00EDcios\\Exerc\u00EDcio de Vetores\\Vetores.cs",
+              "RelativeToolTip": "Vetores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T14:36:27.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
